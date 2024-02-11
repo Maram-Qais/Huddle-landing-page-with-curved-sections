@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Open+Sans:wght@400;600;700&display=swap');
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+  .subscribe-button:hover {
+    background-color: #ff3385; 
+    cursor: pointer;
+  }
+
+
+footer ,.meemo{
+    background-color: hsl(192, 100%, 9%);
+}
+
+.meemo p{
+color: #fcf4f6;
+margin-bottom:2%}
